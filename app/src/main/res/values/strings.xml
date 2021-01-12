@@ -11,4 +11,5 @@
     <string name="share">Share</string>
     <string name="communicate">Communicate</string>
     <string name="action_reset">Reset</string>
+    <string name="preference_file_key">pref_key</string>
 </resources>
